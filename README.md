@@ -1,2 +1,2 @@
-# idioms_nlp_proj
+# Idioms NLP Project
 Idioms NLP Model Project
