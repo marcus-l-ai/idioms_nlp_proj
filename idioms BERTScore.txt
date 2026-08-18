@@ -1,0 +1,4 @@
+model,precision,recall,f1
+no training,0.4984,0.4381,0.4716
+few shot,0.5066,0.4736,0.4851
+fully fine-tuned,0.6462,0.6534,0.6472
